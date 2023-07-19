@@ -1,0 +1,11 @@
+header {
+     background-image: url(./bg-hero.jpg);
+     width: 100%;
+     height: 660px;
+     background-size: cover;
+     background-repeat: no-repeat;
+}
+
+.row {
+     width: 100%;
+}
